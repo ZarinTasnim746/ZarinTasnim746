@@ -62,6 +62,11 @@ I'm a Computer Science and Engineering graduate from Ahsanullah University of Sc
 - 🔧 Tech Stack: JavaScript, SQL
 - [View Repository](https://github.com/ZarinTasnim746/Haat-Bazar)
 
+
+**5. 🎮 Number Guessing Game**
+- A beginner-friendly Python game with difficulty levels and input validation
+- 🔧 Tech Stack: Python
+- [View Repository](https://github.com/ZarinTasnim746/Number-Guessing-Game)
 ---
 
 ## 🏆 Achievements
