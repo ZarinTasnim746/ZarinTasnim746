@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zarin Tasnim
+# Zarin Tasnim
 
 🎓 BSc in CSE — Ahsanullah University of Science and Technology
 🔍 Aspiring Software Quality Assurance (SQA) Engineer
