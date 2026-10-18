@@ -125,4 +125,4 @@ I'm a CSE graduate from Ahsanullah University of Science and Technology (AUST), 
 - 📞 Phone: +8801960620691
 - 💼 LinkedIn: [Zarin Tasnim](https://www.linkedin.com/in/zarin-tasnim-605336260/)
 - 🌐 Portfolio: [ZarinTasnim746.github.io](https://ZarinTasnim746.github.io)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1rV8cKTe4mmNrAblL4X778z3-bKk9z6dR/view?usp=drive_link)
+- 📄 Resume: [View Resume](https://drive.google.com/drive/u/1/folders/1GJ0RnffXbgEuiIzDMhRRMB5X3MUvM1W6)
