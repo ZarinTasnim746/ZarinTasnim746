@@ -34,6 +34,17 @@ I'm a Computer Science and Engineering graduate from Ahsanullah University of Sc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
+## 💼 Professional Experience
+
+### Jr. IT Officer — Times of Bangladesh
+📅 May 2026 – Present | 📍 Bangladesh
+
+- Provide day-to-day IT support and technical assistance.
+- Troubleshoot computer hardware and software issues.
+- Support operating system installation and basic configuration.
+- Monitor SEO social media & team activities and track work progress.
+- Help ensure smooth IT operations and team workflow.
+---
 
 ## 🚀 Projects
 
@@ -79,9 +90,9 @@ I'm a Computer Science and Engineering graduate from Ahsanullah University of Sc
 
 ## 📜 Certifications
 
-- 📌 Data Entry Course — Nation IT *(Completed)*
-- 📌 Software Quality Assurance (SQA) Course — Ostad *(Ongoing)*
-- 📌 All-in-One Digital Skills Program — SR Dream IT *(Enrolled)*
+- 📌 Data Entry Course — Nation IT 
+- 📌 Software Quality Assurance (SQA) Course — Ostad 
+- 📌 All-in-One Digital Skills Program — SR Dream IT 
 
 ---
 
