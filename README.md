@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a Computer Science and Engineering graduate from Ahsanullah University of Science and Technology (AUST), passionate about delivering high-quality software. I have a strong interest in Software Quality Assurance (SQA) — particularly in identifying bugs, improving user experience, and ensuring applications perform reliably. I am a detail-oriented, fast learner who is eager to contribute to a professional team and grow through hands-on experience. While SQA is my primary interest, I am open to opportunities across software development, data, and other technology-driven roles where I can apply my skills and continue to evolve as a professional.
+I'm a CSE graduate from Ahsanullah University of Science and Technology (AUST), currently working as a Jr. IT Officer at Times of Bangladesh. My current role allows me to gain practical experience in IT support, hardware troubleshooting, and solving day-to-day technical issues. I'm also passionate about Software Quality Assurance (SQA) and interested in software testing, finding bugs, and improving the overall user experience. While I'm gaining experience in my current role, I'm continuing to learn and develop my SQA skills with the goal of building my career in software testing. I enjoy learning new things, solving problems, and finding ways to improve my technical knowledge.
 
 ---
 
@@ -23,6 +23,13 @@ I'm a Computer Science and Engineering graduate from Ahsanullah University of Sc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
+**Software Testing (SQA):**
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2E8B57?style=flat)
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-4682B4?style=flat)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-D9534F?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 **Tools & Frameworks:**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
@@ -32,6 +39,7 @@ I'm a Computer Science and Engineering graduate from Ahsanullah University of Sc
 **Databases:**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 ## 💼 Professional Experience
